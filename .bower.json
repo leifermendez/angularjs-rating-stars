@@ -1,0 +1,41 @@
+{
+  "name": "angular-jk-rating-stars",
+  "description": "Amazing rating stars directive for angular material",
+  "main": [
+    "./dist/jk-rating-stars.js",
+    "./dist/jk-rating-stars.css"
+  ],
+  "authors": [
+    "Juan Carlos Morales Mora <juank.memphis@gmail.com>"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "angular",
+    "angular-material",
+    "material",
+    "rating",
+    "stars",
+    "rating-stars"
+  ],
+  "homepage": "https://github.com/juank11memphis/angular-jk-rating-stars",
+  "moduleType": [
+    "globals"
+  ],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "version": "1.0.9",
+  "_release": "1.0.9",
+  "_resolution": {
+    "type": "version",
+    "tag": "v1.0.9",
+    "commit": "81f35ce6327f4b50e47ecf8a03b4d0e5ce682051"
+  },
+  "_source": "https://github.com/juank11memphis/angular-jk-rating-stars.git",
+  "_target": "^1.0.9",
+  "_originalSource": "angular-jk-rating-stars"
+}
