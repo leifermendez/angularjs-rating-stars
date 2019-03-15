@@ -44,3 +44,5 @@ angular.module('MyApp', ['jkAngularRatingStars']);
 
 ## License
 This module is released under the permissive [MIT license](http://revolunet.mit-license.org). Contributions or suggestions are always welcome :D
+=======
+# angular-jk-rating-stars
