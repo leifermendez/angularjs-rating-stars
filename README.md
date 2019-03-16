@@ -4,15 +4,15 @@ Amazing AngularJS 1 Rating Stars directive that works with Angular Material.
 
 Demo : https://embed.plnkr.co/q7pgHz/
 
-## Install :
+### Install :
 
-### npm
+##### npm
 `npm install angular-jk-rating-stars`
 
-### bower
+##### bower
 `bower install angular-jk-rating-stars`
 
-## Usage :
+### Usage :
 
  - Add `jk-rating-stars.js` to your index file:
 ```html
@@ -40,9 +40,10 @@ angular.module('MyApp', ['jkAngularRatingStars']);
 </jk-rating-stars>
 ```
 
-## TODO :
-
-## License
+### Atention :
+This is not my project. I have uploaded it because the original link expired. 
+The author of this project is [Juan Morales](https://github.com/juank11memphis), if you need help I can provide support.
+### License:
 This module is released under the permissive [MIT license](http://revolunet.mit-license.org). Contributions or suggestions are always welcome :D
-=======
-# angular-jk-rating-stars
+
+### angular-jk-rating-stars
